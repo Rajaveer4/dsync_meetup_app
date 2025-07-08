@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762462508542",
+    "firebase_url": "https://dsync-1d940-default-rtdb.firebaseio.com",
+    "project_id": "dsync-1d940",
+    "storage_bucket": "dsync-1d940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762462508542:android:d63bb50ed25ddf0a0ddcaf",
+        "android_client_info": {
+          "package_name": "com.example.dsync_meetup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762462508542-b0gecbrbh3e96itpeg9f23s2evidlju0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dsync_meetup_app",
+            "certificate_hash": "9ec933a9019d209f1f8600d72c3c6745900ed646"
+          }
+        },
+        {
+          "client_id": "762462508542-4ms02jugchq7gq2pf7s7da4srb1amvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LfEhYr4PhQd-yejAfybgy2oJ4lC_apY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762462508542-4ms02jugchq7gq2pf7s7da4srb1amvdr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762462508542-j3rle7bq52s1kig95kug14sq77t4kpjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dsyncMeetupApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
